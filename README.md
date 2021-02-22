@@ -55,13 +55,13 @@ OBJETIVOS ESPECÍFICOS:
      c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
      frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 
-![]()
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%201%20circuito.jpg)
 
 
 * 2.- Construya el circuito mostrado en la Figura 2
 
 
-![]()
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/FIGURA%202%20circuito.jpg)
 
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
