@@ -124,11 +124,11 @@ Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
 
     * Reactancia Circuito RC:
 
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/Reactancia%20circuito%20rc.jpg)
+  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rc.jpg)
   
     * Reactancia Circuito RL:
 
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/Reactancia%20circuito%20rl.jpg)
+  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/reactancia%20rl.jpg)
   
   
 
