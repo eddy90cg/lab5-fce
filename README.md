@@ -114,11 +114,11 @@ Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
 
     * Capacitores:
   
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/tabla%20de%20resultados%20capacitores.jpg)
+  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.43%20PM.jpeg)
   
     * Inductores:
 
-  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/tabla%20de%20resultados%20inductores.jpg)
+  ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/WhatsApp%20Image%202021-02-23%20at%202.09.23%20PM.jpeg)
 
   *Corriente  y el voltaje realizados con el multímetro para calcular la reactancia  𝑋= 𝑉𝑜/𝐼  en cada una de las frecuencias y también para calcular los valores de 𝐿𝑒𝑞 y  𝐶𝑒𝑞 según sea el caso.  Anote  los  resultados  en  una  tabla  haciendo  constar  también  las  frecuencias. Comente los resultados.  𝑍=𝑅 + 𝑗𝑋
 
