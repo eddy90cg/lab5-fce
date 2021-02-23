@@ -132,10 +132,10 @@ Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
   
   
 
-  Registro de datos tomandos del experimento, procesados y calculados por medio de calculadora digital :
+ * Calculos correspondientes para el experimento :
 
 
-![]()
+    * Revisar la seccion ANEXOS
 
 
 # 6.	PROCEDIMIENTO y EXPERIMENTACION
@@ -242,7 +242,10 @@ Recuperado de:
 
 # 10. ANEXOS
 
+
 * Calculos a pdf:
+
+      https://github.com/eddy90cg/lab5-fce/blob/main/Anexos/CamScanner%2002-23-2021%2012.37.pdf
 
 
   
