@@ -50,7 +50,7 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 * Desarrollo:
 
 
- ![]( )
+ ![](https://github.com/eddy90cg/lab5-fce/blob/main/im/MENTEFACTO%20MARCO%20TEORICO.jpg)
 
 
 # 3. EXPLICACIÓN
@@ -133,9 +133,11 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 
 # 6.	PROCEDIMIENTO y EXPERIMENTACION
 
-  Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion observamos que:
+  Al realizar la explicacion previamiente señalada en la simulacion realizada para la experimentacion en el software de simulacion proteus observamos que:
 
-![]()
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RC%20PROTEUS.jpg)
+
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/CRICUITO%20RL%20PROTEUS.jpg)
 
 # 7. APORTACIONES y PREGUNTAS
 
@@ -238,6 +240,8 @@ Recuperado de:
 
   
  * Mentefacto pdf:
+
+       https://github.com/eddy90cg/lab5-fce/blob/main/Anexos/capacitores%20inductores.pdf
  
 
  
