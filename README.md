@@ -99,7 +99,14 @@ Lista de Materiales y componetes necesarios para desarrollar experimental del la
 
 * Los resultados y comportamiento visto mediante los diferentes tipos de circuito es atraves de un osciloscopio, se observa que:
 
-![]()
+Frecuencia 100 Hz - Vp = 10 v - Circuito Rc:
+
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrc%20100%20hz.jpg)
+
+Frecuencia 100 Hz - Vp = 10 v - Circuito Rl:
+
+![](https://github.com/eddy90cg/lab5-fce/blob/main/im/grafica%20de%20funcionrl%20100%20hz.jpg)
+
 
 * Se observa los resultados:
 
